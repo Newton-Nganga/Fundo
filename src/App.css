@@ -1,0 +1,38 @@
+
+.bg-brown{
+  background-color: rgb(40, 32, 18);
+}
+
+.bg-dark-brown{
+  background-color: rgb(8, 7, 4);
+}
+
+
+
+.acme{
+  font-family: 'Acme', sans-serif;
+}
+.abril{
+  font-family: 'Abril Fatface', cursive;
+}
+.jost{
+  font-family: 'Jost', sans-serif;
+}
+.cinzel{
+  font-family: 'Cinzel', serif;
+}
+.montserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+.quicksand{
+  font-family: 'Quicksand', sans-serif;
+}
+.poppins{
+  font-family: 'Poppins', sans-serif;
+}
+.gulzar{
+  font-family: 'Gulzar', serif;
+}
+.comic{
+  font-family: 'Comic Neue', cursive;
+}
