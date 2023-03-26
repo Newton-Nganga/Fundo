@@ -1,3 +1,5 @@
+To visit fundo use this link  https://fundo-furnitures-jk74twn54-newton-nganga.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
